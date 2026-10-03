@@ -1,2 +1,4 @@
 Hello from main branch.
 This is SE second Lab Manua
+Hello from feature branch
+This is SE second Lab Manual.
